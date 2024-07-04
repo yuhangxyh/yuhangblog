@@ -6,7 +6,7 @@ weight: 1
 
 # Welcome
 
-under construction
+under construction.
 
 Let's change this, one website at a time! **Bear Cub** is a
 [Hugo](https://gohugo.io/) theme based on [Hugo
