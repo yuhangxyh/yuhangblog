@@ -8,7 +8,6 @@ copyright = "Yuhang Xu (CC BY 4.0)"
 # see https://gohugo.io/content-management/multilingual/
 [languages]
   [languages.en]
-    title = "Bear Cub"
     languageName = "en-US 🇺🇸"
     LanguageCode = "en-US"
     contentDir = "content"
