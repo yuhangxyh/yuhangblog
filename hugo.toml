@@ -4,3 +4,14 @@ title = 'Yuhang Xu website'
 theme = "hugo-bearcub"
 copyright = "Yuhang Xu (CC BY 4.0)"
 
+# Multilingual mode config. More for information about how to setup translation,
+# see https://gohugo.io/content-management/multilingual/
+[languages]
+  [languages.en]
+    title = "Bear Cub"
+    languageName = "en-US 🇺🇸"
+    LanguageCode = "en-US"
+    contentDir = "content"
+    [languages.en.params]
+      madeWith = "Made with [Bear Cub](https://github.com/clente/hugo-bearcub)"
+  
