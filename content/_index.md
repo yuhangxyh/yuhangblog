@@ -6,15 +6,7 @@ weight: 1
 
 # Welcome
 
-Today's websites are bloated, slow, and full of scripts, ads, and trackers. This
-became so commonplace that we lost all sense of perspective, to the point that
-we now think multi-megabyte webpages are normal.
-
-> The internet has become a bloated mess. Huge JavaScript libraries, countless
-> client-side queries and overly complex frontend frameworks are par for the
-> course these days.
->
-> --- [Kev Quirk](https://512kb.club/)
+under construction
 
 Let's change this, one website at a time! **Bear Cub** is a
 [Hugo](https://gohugo.io/) theme based on [Hugo
