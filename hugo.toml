@@ -12,5 +12,5 @@ copyright = "Yuhang Xu (CC BY 4.0)"
     LanguageCode = "en-US"
     contentDir = "content"
     [languages.en.params]
-      madeWith = "Made with [Bear Cub](https://github.com/clente/hugo-bearcub)"
-  
+      # madeWith = "Made with [Bear Cub](https://github.com/clente/hugo-bearcub)"
+        madeWith = "Made with [Bear Cub]"
